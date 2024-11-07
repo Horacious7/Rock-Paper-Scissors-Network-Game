@@ -1,6 +1,6 @@
 # Multiplayer Rock-Paper-Scissors Game
 
-This is a two-player Rock-Paper-Scissors game implemented in Python using socket programming and PyQt for the graphical interface. The game allows a server and client to connect over a local network, choose unique player names, and play multiple rounds, with scores tracked automatically.
+This is a two-player Rock-Paper-Scissors game implemented in Python using socket programming and PyQt for the graphical interface. The game allows a server and client to connect over a local network  and play multiple rounds, with scores tracked automatically.
 
 ## Features
 
