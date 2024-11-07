@@ -32,17 +32,22 @@ This is a two-player Rock-Paper-Scissors game implemented in Python using socket
 
 ## Usage
 
-1. **Start the Server**:
+1. **Run the Game**:
+   - Open two terminals to run the server and client scripts.
+   - Ensure that both terminals are on the same network.
+   - Replace `SERVER_IP` with the server's IP address in `client.py`.
+   
+2. **Start the Server**:
    - Run `server.py` to start the server (Player 1).
    ```bash
    python server.py
 
-2. **Start the Client**:
+3. **Start the Client**:
    - On a different terminal, run `client.py` to start the client (Player 2).
    ```bash
    python client.py
 
-3. **Both players** will be prompted to enter their names before gameplay. Once both are ready, the game will begin and display each player’s score.
+4. **Play the Game**:
 
 ## Project Structure
 
