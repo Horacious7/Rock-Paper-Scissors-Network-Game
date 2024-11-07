@@ -7,7 +7,6 @@ This is a two-player Rock-Paper-Scissors game implemented in Python using socket
 - **Local Network Multiplayer**: Play Rock-Paper-Scissors with a friend on the same network.
 - **Graphical Interface**: A PyQt-based interface with easy-to-use buttons and score display.
 - **Score Tracking**: The game keeps track of each player's score until one decides to quit.
-- **Unique Player Names**: Players input their names upon joining, displayed in the game.
 
 ## Requirements
 
