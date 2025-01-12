@@ -21,14 +21,7 @@ This is a two-player Rock-Paper-Scissors game implemented in Python using socket
     cd rock-paper-scissors-game
     ```
 
-2. Install dependencies (using a virtual environment is recommended):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    pip install -r requirements.txt
-    ```
-
-3. Run the game by starting the server and client as described below.
+2. Run the game by starting the server and client as described below.
 
 ## Usage
 
